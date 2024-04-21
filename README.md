@@ -15,7 +15,7 @@ Jarvis is a Python-based virtual assistant designed for automation and PC contro
 1. Clone the repository:
 
     ```
-    git clone https://github.com/yourusername/jarvis.git
+    https://github.com/AnubhavChaturvedi-GitHub/Jarvis.git
     ```
 
 2. Install dependencies:
